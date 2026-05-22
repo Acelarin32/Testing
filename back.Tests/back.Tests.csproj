@@ -20,6 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <InternalsVisibleTo Include="back.Tests" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\back\back.csproj" />
   </ItemGroup>
 

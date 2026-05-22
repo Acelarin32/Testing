@@ -2976,11 +2976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back.Tests\\back.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\back\\Testing\\back.Tests\\back.Tests.csproj",
       "projectName": "back.Tests",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back.Tests\\back.Tests.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\back\\Testing\\back.Tests\\back.Tests.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\back\\Testing\\back.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3001,8 +3001,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back\\back.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back\\back.csproj"
+            "C:\\Users\\Alex\\Desktop\\back\\Testing\\back\\back.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Desktop\\back\\Testing\\back\\back.csproj"
             }
           }
         }

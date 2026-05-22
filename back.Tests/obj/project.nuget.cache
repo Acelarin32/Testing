@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZYL7kA1zsjs=",
+  "dgSpecHash": "Zi1tkeXEUKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Coding\\testing\\back.Tests\\back.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\back\\Testing\\back.Tests\\back.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\10.0.8\\microsoft.aspnetcore.mvc.testing.10.0.8.nupkg.sha512",
