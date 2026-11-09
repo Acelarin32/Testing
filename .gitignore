@@ -1,6 +1,4 @@
-cd C:\Users\Alex\Desktop\Coding\testing
-@"
-bin/
+﻿bin/
 obj/
 node_modules/
 test-results/
@@ -8,4 +6,3 @@ playwright-report/
 *.user
 .vs/
 .idea/
-"@ | Out-File -Encoding utf8 .gitignore
